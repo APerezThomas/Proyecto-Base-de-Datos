@@ -24,6 +24,9 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
     * `Producto`, `LineaDeProducto`, `Cliente`, `Empleado` (con campos encriptados).
     * `Sucursales`, `Factura`, `NotaDeCredito`, `VentasRegistradas`, `DetalleDeVenta`, `MediosDePago`.
 
+*DER de la Base de Datos*
+<img width="2000" height="1684" alt="image" src="https://github.com/user-attachments/assets/cc27fa42-2d59-4883-bf5b-e6d236855eca" />
+
 ### 🔹 Procedimientos CRUD
 
 * **`Stored_Procedure.sql`**
@@ -97,6 +100,7 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
       SUPERMERCADO_Grupo7_FULL_DiaX.bak
       ```
   * Procedimiento **`sp_RestoreDatabases`** para restaurar desde un archivo `.bak`.
+  * Para que el respaldo sea automatico se debe programar un `ejecutable`.
   * Ejemplo de uso:
 
     ```sql
@@ -109,6 +113,8 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
          @path = N'C:\Backup\SUPERMERCADO_Grupo7_FULL_Dia5.bak', 
          @dateBaseName = 'SUPERMERCADO_Grupo7';
     ```
+    <img width="2000" height="2829" alt="image" src="https://github.com/user-attachments/assets/e602cc06-174e-4031-868e-3f4d0e51bc51" />
+
 
 ### 🔹 **Testing**
 
