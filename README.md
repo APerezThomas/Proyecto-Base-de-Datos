@@ -43,6 +43,7 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
 
 ### 🔹 Importación de Datos
 
+* **Los archivos a importar estan comprimidos en `Archivos.rar`**
 * **`Importar_Archivos.sql`**
 
   * Procedimientos para importar desde Excel/CSV con `OPENROWSET` y `BULK INSERT`:
