@@ -1,4 +1,4 @@
-# 🛒 Proyecto Base de Datos Supermercado 
+# 🛒 Proyecto Base de Datos Supermercado - Grupo7
 
 Este proyecto implementa un **sistema de gestión para un supermercado** utilizando **SQL Server**.
 Incluye creación de la base de datos, tablas y esquemas, procedimientos almacenados, seguridad y roles, reportes XML, importación de datos externos, backups automáticos y scripts de testing.
