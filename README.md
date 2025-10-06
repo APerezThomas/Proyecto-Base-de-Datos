@@ -186,5 +186,4 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
 * Respaldo y restauración automática de la base de datos.
 * Integridad referencial asegurada mediante **claves foráneas** y validaciones.
 
-## **Para mas detalle ver el [informe de configuraciones aplicadas](https://github.com/APerezThomas/Proyecto-Base-de-Datos/blob/main/Informe_de_Configuraciones_Aplicadas.pdf)**
 ---
