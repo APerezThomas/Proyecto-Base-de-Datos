@@ -131,7 +131,7 @@ Incluye creación de la base de datos, tablas y esquemas, procedimientos almacen
 
 ## 🛠️ Requisitos
 
-* **DBMS:** SQL Server 2019 o superior.
+* **DBMS:** SQL Server 2019 o superior. Mirar [informe de descarga de SQL](https://github.com/APerezThomas/Proyecto-Base-de-Datos/blob/main/Informe_de_Descarga_de_SQL.pdf).
 * **Base de datos:** `SUPERMERCADO_Grupo7`.
 * **Permisos:** usuario con rol `sysadmin` para crear logins, roles, triggers y ejecutar backups.
 * **Archivos externos:** ajustar rutas de CSV/Excel en los procedimientos de importación (ejemplo: `C:\Users\PC\Desktop\...`).
